@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Farhan",
+    "username": "codeHokage",
+    "email": "farhansodiq360@gmail.com",
+    "address": {
+      "street": "17, Hassan Street",
+      "lga": "Oshodi-Isolo",
+      "state": "lagos",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sodiq",
+    "username": "sodiq-codeHokage",
+    "email": "sodiqfarhan360@gmail.com",
+    "address": {
+      "street": "20, Hassanat Street",
+      "lga": "Oshodi-Isolo",
+      "state": "ilorin",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ayomide",
+    "username": "ayomide-codeHokage",
+    "email": "farhansodiq360@gmail.com",
+    "address": {
+      "street": "200, Iman Estate",
+      "lga": "Ikeja",
+      "state": "lagos",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Olawale",
+    "username": "olawale-codeHokage",
+    "email": "farhansodiq360@gmail.com",
+    "address": {
+      "street": "14, Whitesand Estate",
+      "lga": "outside Naija",
+      "state": "california",
+      "country": "USA"
+    }
+  }
+]
